@@ -1,0 +1,23 @@
+Туториал на русском для компьютера
+Скачайте Zapret через официальный гитхаб или прямой ссылкой скачивания:
+https://github.com/Flowseal/zapret-discord-youtube
+https://www.mediafire.com/file/azdhfkdy1uhps0c/zapret-discord-youtube-1.9.0b.zip/file
+Если скачали то распакуйте архив и заходите в папку lists, после этого откройте txt файл "list general" потом вводим эти адресы:
+
+roblox.com
+css.rbxcdn.com
+js.rbxcdn.com
+ecsv2.roblox.com
+metrics.roblox.com
+apis.roblox.com
+realtime-signalr.roblox.com
+games.roblox.com
+tr.rbxcdn.com
+thumbnails.roblox.com
+
+сохраняем, выходим из этой папки и открываем service (Bat)
+выбираем 6 пункт и 7 потом выходим (6 пункт должен быть включен а 7 должен быть под статусом any)
+открываем стратегию general alt 8 или какую-то другую, мне помогла эта.
+спасибо посещение моего профиля.
+если запрет был открыт во время редактирования закройте его и снова запустите
+также для удаления или для полного закрытия файлов можете использовать service.bat.
